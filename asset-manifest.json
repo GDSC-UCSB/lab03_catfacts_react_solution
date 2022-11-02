@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lab03_catfacts_react_solution/static/css/main.43100b15.css",
+    "main.js": "/lab03_catfacts_react_solution/static/js/main.69b60e2e.js",
+    "static/media/cat-clipart.png": "/lab03_catfacts_react_solution/static/media/cat-clipart.5c6b35724c2a6c422e9b.png",
+    "index.html": "/lab03_catfacts_react_solution/index.html",
+    "main.43100b15.css.map": "/lab03_catfacts_react_solution/static/css/main.43100b15.css.map",
+    "main.69b60e2e.js.map": "/lab03_catfacts_react_solution/static/js/main.69b60e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43100b15.css",
+    "static/js/main.69b60e2e.js"
+  ]
+}
